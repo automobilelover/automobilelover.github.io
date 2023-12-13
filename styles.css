@@ -1,0 +1,28 @@
+body {
+    padding-top: 70px; /* Adjust based on your navbar height */
+}
+
+/* Smooth scrolling for all anchor links */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Additional styling for your content */
+.container {
+    margin-top: 20px;
+}
+
+/* Optional: Add padding to the header for better spacing */
+header {
+    padding: 60px 0;
+}
+
+/* Optional: Style the footer */
+footer {
+    margin-top: 20px;
+}
+
+/* Optional: Add some padding to the sections for better spacing */
+section {
+    padding: 20px 0;
+}
