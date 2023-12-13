@@ -4,13 +4,6 @@ body {
     background-color: #f8f9fa;
 }
 
-header {
-    background-color: #343a40;
-    color: #ffffff;
-    padding: 20px 0;
-    text-align: center;
-}
-
 nav {
     background-color: #343a40;
     color: #ffffff;
@@ -39,6 +32,11 @@ nav a:hover {
     max-width: 960px;
     margin: 0 auto;
     padding: 20px;
+}
+
+header {
+    background-color: #f8f9fa;
+    text-align: center;
 }
 
 h1, h2, p {
